@@ -11,6 +11,7 @@
 .app__aboutus-overlay img {
   width: 391px;
   height: 415px;
+  object-fit: contain;
   z-index: 0;
 }
 
